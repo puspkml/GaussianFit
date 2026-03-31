@@ -41,10 +41,8 @@ where $\mathbf{J}$ is the Jacobian of the residuals and $\lambda$ is the Levenbe
 
 ```
 GaussianFit/
-├── gaussian_fit.sce        # Main Scilab script
-├── Gaussiafit.png          # Output plot (fitted curve)
-├── gaussian_fit_report.pdf # Full LaTeX report
-├── gaussian_fit_report.tex # LaTeX source
+├── NewtonGauss.sci       
+├── Gaussiafit.png       
 └── README.md
 ```
 
