@@ -80,11 +80,6 @@ Starting from the initial guess $\mathbf{a}_0 = (105,\,-0.4,\,1.2)^\top$, the al
 - [Scilab](https://www.scilab.org/) (any recent version)
 - No external toolboxes required
 
----
-
-## Report
-
-The full written report (theory, methodology, results) is available as [`gaussian_fit_report.pdf`](gaussian_fit_report.pdf), typeset in LaTeX.
 
 ---
 
